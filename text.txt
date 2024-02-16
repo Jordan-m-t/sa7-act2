@@ -1,0 +1,2 @@
+Ruby is fun
+ruby has file I/O
